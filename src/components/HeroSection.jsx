@@ -17,16 +17,22 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-           I'm a budding full-stack developer exploring React.js and modern web
-development. I’ve built projects like e-commerce clones, currency converters,
-simple games, and a qualitative stock analysis tool — each helping me grow my
-skills through real-world concepts. My frontend work uses React and Tailwind
-CSS, while I'm also learning backend development with FastAPI and PostgreSQL,
-and exploring data libraries like NumPy and Pandas
+            I'm a budding full-stack developer exploring React.js and modern web
+            development. I’ve built projects like e-commerce clones, currency
+            converters, simple games, and a qualitative stock analysis tool —
+            each helping me grow my skills through real-world concepts. My
+            frontend work uses React and Tailwind CSS, while I'm also learning
+            backend development with FastAPI and PostgreSQL, and exploring data
+            libraries like NumPy and Pandas
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
-            <a href="#projects" className="cosmic-button">
+            <a
+              href="https://montefi-zeuk.vercel.app/"
+              className="cosmic-button"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               View My Work
             </a>
           </div>
@@ -40,3 +46,4 @@ and exploring data libraries like NumPy and Pandas
     </section>
   );
 };
+
