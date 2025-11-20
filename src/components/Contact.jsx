@@ -4,7 +4,7 @@ export const Contact = () => {
   return (
     <div className="flex flex-col sm:flex-row justify-center items-center gap-6">
       <a
-        href="https://drive.google.com/file/d/1Mgfh2O-kSC1YWYmD61LN_TYvZMF2wPag/view?usp=drivesdk"
+        href="https://drive.google.com/file/d/1_dkhC9IkQq4hHa6tKk0h_AoGP0vV5LVc/view?usp=sharing"
         target="_blank"
         className="cosmic-button flex items-center gap-2"
       >
