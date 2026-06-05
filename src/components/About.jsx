@@ -41,7 +41,7 @@ export const About = () => {
             </p>
 
             <div className="flex flex-wrap gap-3 pt-2">
-              {["Python", "Java", "C", "React.js", "FastAPI", "PostgreSQL"].map((tag) => (
+              {["Python", "Java", "C", "React.js", "FastAPI", "MySQL"].map((tag) => (
                 <span
                   key={tag}
                   className="text-xs px-3 py-1 rounded-full bg-primary/10 text-primary font-medium border border-primary/20"
