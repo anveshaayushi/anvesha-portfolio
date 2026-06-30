@@ -34,7 +34,7 @@ export const About = () => {
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
-              I've shipped real projects — a Monte Carlo financial simulation engine, an AI prescription
+              I've built a Monte Carlo financial simulation engine, an AI prescription
               analysis platform, and a skill verification system. I strengthen my fundamentals daily
               through DSA practice and am actively expanding into machine learning to build more
               intelligent, real-world applications.
