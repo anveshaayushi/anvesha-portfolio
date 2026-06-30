@@ -7,7 +7,7 @@ const projects = [
     title: "MonteFi",
     subtitle: "Financial Analytics & Simulation Engine",
     description:
-      "A production-grade financial simulation platform powered by Monte Carlo methods. Built for portfolio risk analysis with LLM-powered insights.",
+      "A  financial simulation platform powered by Monte Carlo methods. Built for portfolio risk analysis with LLM-powered insights.",
     tech: ["FastAPI", "Python", "NumPy", "Pandas", "SQLite", "LangChain", "Gemini"],
     github: "https://github.com/anveshaayushi/montefi",
     live: "https://montefi-zeuk.vercel.app/",
@@ -60,7 +60,7 @@ const projects = [
     title: "Aftermath",
     subtitle: "Interactive Web Application",
     description:
-      "A dynamic web application focused on fluid UI behavior, user engagement, and responsive client-side performance.",
+      "A dynamic web application focused on fluid user experiences and an institutional accountability platform designed to promote transparency by enabling students to voice, track, and resolve concerns effectively. ",
     tech: ["JavaScript", "HTML", "CSS"],
     github: "https://github.com/anveshaayushi/aftermath",
     live: null,
